@@ -1,12 +1,11 @@
 {
     "name": "grechanyuk/yandexweather",
     "description": ":description",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Egor G.",
+            "email": "xorolllo@hotmail.com"
         }
     ],
     "homepage": "https://github.com/grechanyuk/yandexweather",
