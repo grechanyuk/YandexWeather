@@ -13,6 +13,7 @@ Via Composer
 
 ``` bash
 $ composer require grechanyuk/yandexweather
+$ php artisan vendor:publish --provider="Grechanyuk\YandexWeather\YandexWeatherServiceProvider" --tag="yandexweather.config"
 ```
 
 ## Usage
